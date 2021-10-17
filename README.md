@@ -86,6 +86,8 @@ There are two primary components to this platform:
 
 Registry will keep track of APIs, services, and functions as baseline resources.
 
+[Open Application Model](https://oam.dev) is being considered for the specification.
+
 Metadata for APIs will include a version (as path or tag), schema, and endpoints. There has to be a way to uniquely identify APIs as well as tell if they are the same API with multiple endpoints.
 
 Schema should be detected automatically but allow for manual configuration as well
