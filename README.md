@@ -75,6 +75,9 @@ Since APIs often reflect the core business values and purpose, often there are m
   * No concept of multiple endpoint
   * Not distributed design
   * This might actually work. It’s a CNCF sandbox project, and if we can get the necessary tweaks in (to support services and possibly functions), then we may be able to make it work.
+* Mulesoft
+  * Centralized instance
+  * Clients must change to start using mulesoft API endpoint instead of the original endpoint
 
 ## Design
 
